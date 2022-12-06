@@ -1,1 +1,1 @@
-# agenda_python
+Programa de agenda, que utiliza uma lista para armazenar os eventos inseridos por um usuário, em que uma de suas finalidades é imprimir uma lista dos eventos que acontecerão entre duas datas especificadas também pelo usuário.
